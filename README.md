@@ -22,7 +22,7 @@ The most flexible arrangement is to wire J4 to two combi XLR sockets for the lef
 
 The interface can be used for unbalanced working by using an XLR lead with the -ve connection wired to the GND pin. 'Stereo'  ¼" jackplug leads can be wired in the same way, but mono ¼" leads can be used without modification for keyboards with unbalanced outputs. Keyboard channels should be set to **Line In** gain.
 
-## Installation
+## The Program
 
 
 Starting the program puts the DAC Plus ADC Pro into Balanced mode, but no other settings are changed. Mic Bias and the channel gains are at the settings when the program was started.
@@ -58,7 +58,7 @@ Copy the binary file *berrypreamp* and the icon file *HiFiBerry_icon.png* to a f
 
 Then, *Applications Launcher:* Accessories/Menu Editor
 
-Add a new item in the *Audio catagory* called BerryPreamp and browse to the file *berrypreamp* in your home directory. Click on *Properties* in the Menu Editor and click on the icon. Browse to the file *HiFiBerry_icon.png* in your home folder and select it. Close Menu Editor. BerryPreamp should now be available in the Audio section of your Application Launcher.
+Add a new item in the *Sound and Video* group called BerryPreamp and browse to the file *berrypreamp* in your home directory. Click on *Properties* in the Menu Editor and click on the icon. Browse to the file *HiFiBerry_icon.png* in your home folder and select it. Close Menu Editor. BerryPreamp should now be available in the Sound and Video section of your Application Launcher.
  
 ## The Python Script
 
