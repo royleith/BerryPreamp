@@ -44,7 +44,7 @@ Once recording is completed, the program can be restarted and exited in **Unbala
 
 The Mic Bias control turns red when it is ON. It also reminds you that the two jumpers, J1 (for the L channel) and J3 (for the R channel) are also required. The bias jumpers introduce a small amount of cross-talk between left and right channels. Electrets are omnidirectional both for gain and for frequency response and this crosstalk only results in a slight narrowing of the stereo field which can be restored with a DAW plugin. 
 
-Dynamic micrpphones do not require bias and are usually cardiod in response (heart shaped) with most gain directly in front of the microphone. The differences in polar frequency response together with the crosstalk can cause audio quality problems. **Only apply jumpers J1 and J3 and Mic Bias when you are using electret microphones.**
+Dynamic micrpphones do not require bias and are usually cardioid in response (heart shaped) with most gain directly in front of the microphone. The differences in polar frequency response together with the crosstalk can cause audio quality problems. **Only apply jumpers J1 and J3 and Mic Bias when you are using electret microphones.**
 <br clear="left"/>
 ## Gain
 
