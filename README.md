@@ -33,7 +33,7 @@ Starting the program puts the DAC Plus ADC Pro into Balanced mode, but no other 
 
 There are two 'Exit' buttons at the bottom of the Window. 
 
-'Unbalanced Line In' sets the DAC Plus ADC Pro to **Unbalanced** mode and **Line In** gain. **The Mic Bias is not changed.** Unless you wish to connect two electret microphones to the 3.5mm unbalanced socket, it is suggested that you turn the bias to 'OFF'.
+'Unbalanced Line In' sets the DAC Plus ADC Pro to **Unbalanced** mode, **Line In** gain and **Mic Bias** to 'OFF'.
 
 
 'Keep Preamp Settings' exits the program leaving the displayed settings unchanged. Having set up the Left and Right channels to the required settings, there is no need to keep the preamplifier window open while recording takes place.
