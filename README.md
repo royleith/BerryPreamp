@@ -60,16 +60,6 @@ Then, *Applications Launcher:* Accessories/Menu Editor
 
 Add a new item in the *Audio catagory* called BerryPreamp and browse to the file *berrypreamp* in your home directory. Click on *Properties* in the Menu Editor and click on the icon. Browse to the file *HiFiBerry_icon.png* in your home folder and select it. Close Menu Editor. BerryPreamp should now be available in the Audio section of your Application Launcher.
  
-## Licence Conditions
-
-This program is distributed under the terms of the GNU General Public License V3 
-
-https://www.gnu.org/licenses/gpl-3.0.txt
-
-Quick Guide To GPLV3   https://www.gnu.org/licenses/quick-guide-gplv3.html ""
+## The Python Script
 
 The Python script is provided so that you can see how the program works and make changes if you want.
-
-You can use the code anyway you want, but, if you pass any of it to someone else, you must give them a copy of the code and a copy of the licence or tell them how they can obtain the copies.
-
-It's easiest to provide a link to the Github page.
